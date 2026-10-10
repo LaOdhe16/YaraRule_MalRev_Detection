@@ -93,11 +93,6 @@ For stronger confidence, combine YARA results with static analysis, sandbox anal
 - Learn how string matching and logical conditions can be combined for detection.
 - Support defensive malware research and threat hunting.
 
-## 👨‍💻 Author
-
-**LaOdhe16**
-
-GitHub: [@LaOdhe16](https://github.com/LaOdhe16)
 
 ## 📚 References
 
